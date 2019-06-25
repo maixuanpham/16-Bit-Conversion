@@ -17,7 +17,7 @@ int main()
 	b[0]++;
 	cout << b << endl;			// output: 2
 	int dec = -45;
-	cout << dec*-1 << endl;		// output: 45
+	cout << dec*-1 << endl;			// output: 45
 	*/
 
 	int option;
